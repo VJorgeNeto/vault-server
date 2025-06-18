@@ -65,3 +65,5 @@ DNS_VAULT="vault.local"
 📜 Licença
 MIT License
 
+✍️ Autor
+Desenvolvido por VJorgeNeto
